@@ -1,0 +1,28 @@
+{
+  "name": "vue-clone",
+  "version": "0.0.1",
+  "description": "clone version of vue for practice",
+  "scripts": {
+    "test": "mocha",
+    "build": "webpack"
+  },
+  "keywords": [
+    "vue",
+    "clone"
+  ],
+  "author": "Calvin Meng",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
